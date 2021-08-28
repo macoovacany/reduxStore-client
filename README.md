@@ -5,7 +5,7 @@ reduxStore-client - Assignemnt for Trilogy Full Stack Developer course.
 
 * Deployed App on Heroku
 
-* Related backend repo
+* [Related backend repo](https://github.com/macoovacany/reduxStore-server)
 
 ----
 
