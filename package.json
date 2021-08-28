@@ -2,7 +2,7 @@
   "name": "mern-client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3001/",
+  "proxy": "https://fsf-reduxstore-server.herokuapp.com/",
   "dependencies": {
     "@apollo/client": "^3.3.7",
     "@reduxjs/toolkit": "^1.6.1",
