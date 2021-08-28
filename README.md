@@ -3,7 +3,7 @@ reduxStore-client - Assignemnt for Trilogy Full Stack Developer course.
 
 ## Links
 
-* [Deployed App on Heroku](https://fsf-reduxstore.herokuapp.com/) is currently returning ```Invalid Host header```. Don't know why.
+* [Deployed App on Heroku](https://fsf-reduxstore.herokuapp.com/)
 
 * [Related backend repo](https://github.com/macoovacany/reduxStore-server)
 
@@ -20,7 +20,6 @@ The conversion highlights are:
  * the global state is now provided through ```./src/utils/store.js``` instead of ```./src/utils/GlobalState.js```. The initial state and reducers are contained in that single file.
  
  * the React provider for redux is in ```./src/App.js```
-
 
 
 ----
