@@ -18,8 +18,9 @@ import { StoreProvider } from './utils/GlobalState';
 import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
 
+
 const httpLink = createHttpLink({
-  uri:  '/graphql',
+  uri: '/graphql',
 });
 
 const authLink = setContext((_, { headers }) => {
