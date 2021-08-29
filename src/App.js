@@ -19,7 +19,7 @@ import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
 
 const httpLink = createHttpLink({
-  uri: process.env.GRAPHQL_URL + '/graphql',
+  uri:  '/graphql',
 });
 
 const authLink = setContext((_, { headers }) => {
